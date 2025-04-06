@@ -1,0 +1,6 @@
+export const AuthType = {
+    LOGIN: 'LOGIN',
+    REGISTER: 'REGISTER',
+    FORGOT_PASSWORD: 'FORGOT_PASSWORD',
+    RESET_PASSWORD: 'RESET_PASSWORD',
+} as const;
